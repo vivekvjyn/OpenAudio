@@ -1,5 +1,5 @@
 Open-Source Audio Plugins & Apps
-================================
+===============================
 
 A list of open source audio software projects (Apps, Plugins, Libraries and other resouces). The intent of this list is to catalog open-source audio apps, plugins (VSTs etc) or other resources which are either fully featured or are useful examples which have non-trivial features.
 
@@ -21,7 +21,7 @@ https://openaudio.webprofusion.com
 <details>
 <summary>Contributing links</summary>
 
-To contribute new links, fill out our issue template and the change will be prepare automatically and reviewed by an editor: https://github.com/webprofusion/OpenAudio/issues 
+To contribute new links, fill out our issue template and the change will be prepare automatically and reviewed by an editor: https://github.com/webprofusion/OpenAudio/issues
 </details>
 
 Audio Plugins
